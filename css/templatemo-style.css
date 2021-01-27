@@ -268,11 +268,17 @@ http://www.templatemo.com/tm-516-known
     padding: 0;
   }
 
+
   .custom-navbar .navbar-brand {
     color: #454545;
     font-size: 18px;
     font-weight: bold;
     line-height: 40px;
+  }
+  .custom-navbar .navbar-brand img{
+    height: auto;
+    width: 70%;
+
   }
 
   .custom-navbar .navbar-nav.navbar-nav-first {
